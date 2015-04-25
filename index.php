@@ -11,7 +11,7 @@ include_once 'header.php';
         <p class="lead"> 初始流量 10GB</p>
         <p><a class="btn btn-lg btn-success" href="user/register.php" role="button">立即注册</a></p>
     </div>
-    </div><?php
+    <?php
             include_once 'footer.php';
             include_once 'ana.php';?>
 </div> <!-- /container -->
