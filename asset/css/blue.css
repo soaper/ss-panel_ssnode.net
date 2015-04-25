@@ -60,3 +60,7 @@
         background-size: 240px 24px;
     }
 }
+
+*{font-weight:bolder!important;}
+*{font-family: "微軟正黑體", "Microsoft JhengHei" !important;}
+*{text-shadow:0.02em 0.02em 0.1em #999999 !important;}
