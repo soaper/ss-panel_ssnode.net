@@ -9,6 +9,7 @@ include_once 'header.php';
     <div class="jumbotron">
         <h2><?php echo $site_name; ?></h2>
         <p class="lead"> 初始流量 10GB</p>
+	<p> 網站前端系統調整中 若無法登入請稍後在試 節點使用不影響</p>
         <p><a class="btn btn-lg btn-success" href="user/register.php" role="button">立即注册</a></p>
     </div>
     <?php
