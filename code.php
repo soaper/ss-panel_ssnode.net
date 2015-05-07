@@ -8,19 +8,19 @@ $c = new \Ss\User\Invite();
     <?php include_once 'nav.php';?>
 
     <div class="jumbotron">
-        <p class="lead"> 邀请码实时刷新</p>
-        <p>如遇到无邀请码请找已经注册的用户获取。</p>
+        <p>本站不定期放出邀請碼 數量不定</p>
+        <p>請遵守本站 <a href=https://ssnode.net/user/tos.php>Term of Service</a> 若違反直接刪除帳號</p>
     </div>
 
     <div class="row marketing">
-        <h2 class="sub-header">邀请码</h2>
+        <h2 class="sub-header">邀請碼</h2>
         <div class="table-responsive">
             <table class="table table-striped">
                 <thead>
                 <tr>
-                    <th>###</th>
-                    <th>邀请码</th>
-                    <th>状态</th>
+                    <th>No.</th>
+                    <th>Code</th>
+                    <th>Status</th>
                 </tr>
                 </thead>
                 <tbody>
@@ -32,7 +32,7 @@ $c = new \Ss\User\Invite();
                 <tr>
                     <td><?php echo $a;$a++; ?></td>
                      <td><?php echo $data['code'];?></td>
-                    <td>可用</td>
+                    <td>可使用</td>
                 </tr>
                 <?php } ?>
                 </tbody>

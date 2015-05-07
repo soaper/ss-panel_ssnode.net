@@ -1,15 +1,10 @@
 <!DOCTYPE html>
-<!--[if IE 7 | IE 8]>
-<html class="ie" lang="zh">
-<![endif]-->
-<!--[if !(IE 7) | !(IE 8) ]><!-->
 <html lang="zh">
-<!--<![endif]-->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="SSNODE TAIWAN 多節點 初始10GB流量">
+    <meta name="description" content="SSNODE TAIWAN 免費shadowsocks服務 多節點 初始提供10GB流量">
     <meta name="author" content="akw28888">
     <title><?php echo $site_name; ?></title>
 

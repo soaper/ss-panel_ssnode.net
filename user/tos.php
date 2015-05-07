@@ -56,7 +56,8 @@ require_once '../lib/config.php';
     <p>
         <ul>
             <li>使用本服務須遵守中華民國以及服務節點所在國家之法律。</li>
-            <li>禁止濫用，例如：BitTorrent、發送垃圾郵件等等。</li>
+            <li>禁止濫用，例如：使用任何P2P(Peer to Peer)軟體、發送垃圾E-Mail。</li>
+            <li>請勿一人註冊多個帳號，若發現立刻刪除。</li>
             <li>我們有權利在不另行通知的情況下刪除刪除任何人的帳戶。</li>
             <li>倘若違反使用條款，我們將無條件刪除帳戶。</li>
        </ul>
@@ -65,8 +66,9 @@ require_once '../lib/config.php';
     <h3>其它</h3>
     <p>
     <ul>
-        <li>SSNODE TAIWAN為 Lop集團 授權在中華民國使用之商標，請勿隨意使用，若造成侵權，後果自負。</li>
+        <li>SSNODE TAIWAN為 Lop集團 授權在中華民國使用之商標，請勿隨意使用，若造成侵權，我方保留法律追訴權。</li>
 	<li>最終解釋權為 SSNODE TAIWAN 所有。</li>
+        <li>本條約經 Lop集團倫理委員會 核定後實施，修正時赤同。
     </ul>
     </p>
     <p>最後編輯: 2015 年 04 月 27 日 01:02<GMT+8></p>
