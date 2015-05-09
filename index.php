@@ -9,7 +9,7 @@ include_once 'header.php';
     <div class="jumbotron">
         <h2><?php echo $site_name; ?></h2>
         <p class="lead"> 初始流量 10GB</p>
-	<p> 邀請碼先到先得: https://ssnode.net/code.php</p>
+	<p> 網站仍在調整中 如有短暫不能訪問情況請見諒</p>
         <p><a class="btn btn-lg btn-success" href="user/register.php" role="button">立即注册</a></p>
     </div>
 <?php
