@@ -9,10 +9,10 @@ require_once '../lib/config.php';
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?php echo $site_name;  ?></title>
     <!-- Bootstrap core CSS -->
-    <link href="../asset/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../asset/css/flat-ui.css" rel="stylesheet">
+    <link href="https://dn-ssnode.qbox.me/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://dn-ssnode.qbox.me/css/flat-ui.css" rel="stylesheet">
     <!-- Custom styles for this template -->
-    <link href="../asset/css/sticky-footer-navbar.css" rel="stylesheet">
+    <link href="https://dn-ssnode.qbox.me/css/sticky-footer-navbar.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
     <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -84,8 +84,8 @@ require_once '../lib/config.php';
 <!-- Bootstrap core JavaScript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="../asset/js/jQuery.min.js"></script>
-<script src="../asset/js/bootstrap.min.js"></script>
+<script src="https://dn-ssnode.qbox.me/js/jQuery.min.js"></script>
+<script src="https://dn-ssnode.qbox.me/js/bootstrap.min.js"></script>
 
 </body>
 </html>

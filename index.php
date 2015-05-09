@@ -18,6 +18,6 @@ include_once 'header.php';
 </div>
 <!-- /container -->
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-<script src="asset/js/ie10-viewport-bug-workaround.js"></script>
+<script src="https://dn-ssnode.qbox.me/js/ie10-viewport-bug-workaround.js"></script>
 </body>
 </html>
